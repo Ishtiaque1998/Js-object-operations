@@ -9,4 +9,5 @@ function addNumber(num1,num2){
  console.log(sum);
 }
 
-addNumber(78,90);
+addNumber(78,90,9);
+
